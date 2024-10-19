@@ -1,0 +1,7 @@
+Hi 
+This branch is created to the main home applications of QuantumKwork Solutions , we will be creating the Website along with the Mobile App for the applications 
+
+The technology used :- 
+1. Angular with Ionic (for Mobile Applications)
+2.NodeJs
+3.FireBase
