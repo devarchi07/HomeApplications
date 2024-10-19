@@ -1,0 +1,13 @@
+Hi ,
+
+This is the main Home Application for QuantumKwork Solution 
+
+This will be used for building the home application both website and app for the QuantumKwork
+
+Technologies Used:-
+
+1. Angular with Ionic(for mobile app)
+2. NodejS
+3. Firebase
+
+Thank you 
